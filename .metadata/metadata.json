@@ -3,7 +3,8 @@
 	"id" : "",
   "version" : "",
   "supported_game_version" : "",
-  "short_description" : "",
+  "picture":"thumbnail.png",
+  "short_description" : "Make subsistence farms fully contribute to the economy.",
   "tags" : [],
   "relationships" : [],
   "game_custom_data" : {
